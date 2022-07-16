@@ -1,4 +1,4 @@
-//pre increment
+//post increment
 #include <iostream>
 using namespace std;
 int main(){
